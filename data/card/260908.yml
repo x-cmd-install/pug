@@ -5,7 +5,7 @@ about:
   head: 869d041
   archived: false
   latestVersion: "v0.6.5"
-  collectedAt: 2026-09-08T01:44:44Z
+  collectedAt: 2026-09-08T04:25:32Z
 timeline:
   created: 2024-01-06
   lastCommit: 2026-01-02
@@ -82,7 +82,7 @@ total:
   commit: 264
 ---
 path: /home/runner/.x-repo/github.com/leg100/pug
-collectedAt: 2026-09-08T01:44:50Z
+collectedAt: 2026-09-08T04:25:38Z
 loc:
   Go:
     code: 15115
