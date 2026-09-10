@@ -22,7 +22,18 @@ x install pug
 - **Latest**: `v0.6.5` (2025-12-02)
 - **Last commit**: 2026-01-02
 - **Assets in release**: 7
-- **Published**: 2025-12-02T20:20:18Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [pug_0.6.5_checksums.txt](https://github.com/leg100/pug/releases/download/v0.6.5/pug_0.6.5_checksums.txt) | 558 B | `other` |
+| [pug_0.6.5_darwin_amd64.zip](https://github.com/leg100/pug/releases/download/v0.6.5/pug_0.6.5_darwin_amd64.zip) | 3.6 MiB | `native/darwin/x64` |
+| [pug_0.6.5_darwin_arm64.zip](https://github.com/leg100/pug/releases/download/v0.6.5/pug_0.6.5_darwin_arm64.zip) | 3.4 MiB | `native/darwin/arm64` |
+| [pug_0.6.5_linux_amd64.zip](https://github.com/leg100/pug/releases/download/v0.6.5/pug_0.6.5_linux_amd64.zip) | 3.5 MiB | `native/linux/x64` |
+| [pug_0.6.5_linux_arm64.zip](https://github.com/leg100/pug/releases/download/v0.6.5/pug_0.6.5_linux_arm64.zip) | 3.2 MiB | `native/linux/arm64` |
+| [pug_0.6.5_windows_amd64.zip](https://github.com/leg100/pug/releases/download/v0.6.5/pug_0.6.5_windows_amd64.zip) | 3.6 MiB | `native/win/x64` |
+| [pug_0.6.5_windows_arm64.zip](https://github.com/leg100/pug/releases/download/v0.6.5/pug_0.6.5_windows_arm64.zip) | 3.3 MiB | `native/win/arm64` |
 
 ## Popularity
 
@@ -57,8 +68,8 @@ Total: **17,771** lines of code across **294** files in the top 5 languages.
 Install metadata for pug lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `pug` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/pug.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/pug.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:30:48Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:24:33Z._
