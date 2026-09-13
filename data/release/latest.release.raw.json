@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3746487,
       "digest": "sha256:7f26c9b089f1978cd2803132e5637bb25b13a9ba900470a25d188e3819251fff",
-      "download_count": 24,
+      "download_count": 25,
       "created_at": "2025-12-02T20:23:16Z",
       "updated_at": "2025-12-02T20:23:16Z",
       "browser_download_url": "https://github.com/leg100/pug/releases/download/v0.6.5/pug_0.6.5_darwin_amd64.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3530168,
       "digest": "sha256:45a172bbd94a1f6afe09698beca1bb725bd8d10fad6658b89bdb9fd634473f1d",
-      "download_count": 135,
+      "download_count": 136,
       "created_at": "2025-12-02T20:23:16Z",
       "updated_at": "2025-12-02T20:23:16Z",
       "browser_download_url": "https://github.com/leg100/pug/releases/download/v0.6.5/pug_0.6.5_darwin_arm64.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3687955,
       "digest": "sha256:60f17a1e0df5aecc138c820e6b8c00bb82e7c509723d254b892c34313ca0219c",
-      "download_count": 1406,
+      "download_count": 1409,
       "created_at": "2025-12-02T20:23:17Z",
       "updated_at": "2025-12-02T20:23:17Z",
       "browser_download_url": "https://github.com/leg100/pug/releases/download/v0.6.5/pug_0.6.5_linux_amd64.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3399040,
       "digest": "sha256:b9b935e0bb8c196b6319acaba82cce5555ba6bfac412824acc9707db15770439",
-      "download_count": 30,
+      "download_count": 31,
       "created_at": "2025-12-02T20:23:17Z",
       "updated_at": "2025-12-02T20:23:17Z",
       "browser_download_url": "https://github.com/leg100/pug/releases/download/v0.6.5/pug_0.6.5_linux_arm64.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3813227,
       "digest": "sha256:209ed388582a712726ff434f80efb2a435765d83610da7cd2346d3107fb6a0c7",
-      "download_count": 17,
+      "download_count": 18,
       "created_at": "2025-12-02T20:23:16Z",
       "updated_at": "2025-12-02T20:23:16Z",
       "browser_download_url": "https://github.com/leg100/pug/releases/download/v0.6.5/pug_0.6.5_windows_amd64.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3469347,
       "digest": "sha256:6d87f5755840c68bc6d763eed835c5717658146659f6e01ad15267f1179c0b82",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2025-12-02T20:23:16Z",
       "updated_at": "2025-12-02T20:23:16Z",
       "browser_download_url": "https://github.com/leg100/pug/releases/download/v0.6.5/pug_0.6.5_windows_arm64.zip"
